@@ -1,0 +1,15 @@
+section { 
+    display: flex;
+    flex-direction: column;
+}
+
+.form, .output {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+
+.form-field {
+    display: flex;
+    flex-direction: column;
+}
